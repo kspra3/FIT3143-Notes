@@ -7,7 +7,7 @@ Feel free to use them and if you wish to add anything, just create a branch or [
 
 ## Contents
 
-1. [Distributed Systems](https://github.com/kspra3/FIT3143-Notes/blob/master/Notes/01%20-%20Distributed%20Systems)
+1. [Distributed Systems](https://github.com/kspra3/FIT3143-Notes/blob/master/Notes/01%20-%20Distributed%20Systems.md)
 2. [Inter-Process Communication](https://github.com/kspra3/FIT3143-Notes/blob/master/Notes/02%20-%20Inter-Process%20Communication)
 3. [Message Passing Interface](https://github.com/kspra3/FIT3143-Notes/blob/master/Notes/03%20-%20Message%20Passing%20Interface)
 4. [Synchronisation](https://github.com/kspra3/FIT3143-Notes/blob/master/Notes/04%20-%20Synchronisation)
