@@ -1,8 +1,8 @@
 [← Return to Index](https://github.com/kspra3/FIT3143-Notes)
 
-# Distributed S
+# Distributed Systems
 
-## Mode
+## Models
 ### Minicomputer
 
 ### Workstation
