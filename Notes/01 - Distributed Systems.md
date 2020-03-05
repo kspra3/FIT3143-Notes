@@ -3,6 +3,15 @@
 # Distributed Systems
 
 ## Models
+### Minicomputer
+
+### Workstation
+
+### Workstation-server
+
+### Processor-pool
+
+### Hybrid
 
 ## Distribution Model
 
