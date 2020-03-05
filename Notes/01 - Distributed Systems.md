@@ -2,7 +2,7 @@
 
 # Distributed S
 
-## Models
+## Model
 ### Minicomputer
 
 ### Workstation
